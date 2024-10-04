@@ -1,2 +1,1 @@
-# pavanpartha
-Demo repository 
+Author pavanpartha
