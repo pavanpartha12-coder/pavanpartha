@@ -1,2 +1,4 @@
 echo "how ru now"
-$miss you
+$miss yoj
+how ru 
+u
